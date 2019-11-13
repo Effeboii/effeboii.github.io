@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: Om mig
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Test image](/img/myAvatar.png)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+En kort beskrivning om mig själv!
 
 
-[jekyll-organization]: https://github.com/jekyll
+Mitt namn är Oscar Elf Svensson och jag har precis börjat studera till webbprogrammerare på Linnéuniversitetet. Jag är 26 år gammal & bor för tillfället i centrala Kalmar tillsammans med min sambo Josefine. Innan jag påbörjade mina studier så arbetade jag som IT-tekniker/säljare på ett litet lokalt företag. 
+
+Som IT-tekniker arbetade jag bland annat med att skapa hemsidor och då väcktes mitt intresse för programmering, vilket gjorde att jag sökte hit. På fritiden gillar jag att spela musik, laga mat och resa.

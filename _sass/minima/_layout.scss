@@ -252,4 +252,10 @@
       @include relative-font-size(1.125);
     }
   }
+
+  img {
+    float: right;
+    height: 25em;
+    margin-left: 1em;
+  }
 }
