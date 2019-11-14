@@ -5,6 +5,6 @@ Contact: os222di@student.lnu.se
 Location: Linneus Univeristy, Kalmar
 
 /* SITE */
-	Last update: 2019/11/12
-	Language: Swedish
-	IDE: VSC, Illustrator, SASS, Jekyll
+Last update: 2019/11/12
+Language: Swedish
+IDE: VSC, Illustrator, SASS, Jekyll

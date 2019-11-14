@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "What is robots.txt and how have you configure it for your site?"
+date:   2019-11-13 10:50:22 -0600
+categories: blog update
+permalink: /blog/fraga-3
+comments: true
+---
+
+Fråga 3
