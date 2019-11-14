@@ -7,5 +7,7 @@ permalink: /blog/fraga-5
 comments: true
 ---
 
-How did you implements comments to blog posts?
-Fråga 4
+Jag använde mig av tjänsten ”Disqus”, där jag först fick skapa ett konto. Sedan var det bara att följa anvisningarna. I processen fick du skapa ett ”shortname”, som du implementerar i din ”_config.yml-fil”. Kodenstycket du fick klistrar du in i din ”disqus_comments.html-fil”. 
+
+Nu ska du kunna kommentera hur mycket du vill 😊
+

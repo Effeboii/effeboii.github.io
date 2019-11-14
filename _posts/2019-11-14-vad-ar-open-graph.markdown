@@ -7,5 +7,4 @@ permalink: /blog/fraga-6
 comments: true
 ---
 
-What is Open Graph and how do you make use of it?
-Fråga 5
+Open Graph är ett sätt för att få delade länkar att se mer attraktiva ut. Istället för att du ser en vanlig länk, alltså en ren URL, så får du med Open Graph med kanske en bild och en kort informationsbeskrivning av innehållet i länken.
