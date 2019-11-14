@@ -7,4 +7,5 @@ Location: Linneus Univeristy, Kalmar
 /* SITE */
 Last update: 2019/11/12
 Language: Swedish
+Doctype: HTML5
 IDE: VSC, Illustrator, SASS, Jekyll

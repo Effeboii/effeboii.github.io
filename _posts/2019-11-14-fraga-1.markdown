@@ -7,4 +7,6 @@ permalink: /blog/fraga-1
 comments: true
 ---
 
-Fråga 1
+What do you think of pre-compiling your CSS?
+
+Det känns som ett bra sätt om man vill jobba snabbt och effektivt.

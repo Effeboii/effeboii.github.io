@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "What is humans.txt and how have you configure it for your site?"
+title:  "How did you implements comments to blog posts"
 date:   2019-11-13 10:50:22 -0600
 categories: blog update
-permalink: /blog/fraga-4
+permalink: /blog/fraga-5
 comments: true
 ---
 

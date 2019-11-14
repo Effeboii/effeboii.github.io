@@ -108,6 +108,7 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+  background-color: #ffffff;
 }
 
 .footer-heading {
@@ -171,10 +172,13 @@
 }
 
 .home {
-  border-radius: 20px;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #000000;
   padding: 20px;
   background-color: #ffffff;
-  opacity: 50%;
+  opacity: 75%;
 }
 
 /**
