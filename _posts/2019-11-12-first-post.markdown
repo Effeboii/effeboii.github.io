@@ -2,6 +2,7 @@
 layout: post
 title:  "Mitt första blogginlägg"
 date:   2019-11-12 12:41:22 -0600
+author: Oscar Elf
 categories: blog update
 permalink: /blog/first-post
 comments: true
