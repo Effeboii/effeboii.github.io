@@ -108,7 +108,6 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
-  // background-color: $site-footer-color;
   background-image: url(/img/img_footer.jpg);
 }
 
@@ -178,7 +177,7 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
-  background-size: contain;
+  background-size: cover;
   background-image: url(/img/fog_forest.jpg);
 }
 
